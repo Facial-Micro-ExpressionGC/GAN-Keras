@@ -11,3 +11,5 @@ cgan.ipynb - Conditional GAN implementation using Keras for mnist/Fashion mnist 
 
 acgan.ipynb - Auxiliary Classifier keras implementation for mnist dataset.
 
+![](acgan-mnist-keras.gif)
+
