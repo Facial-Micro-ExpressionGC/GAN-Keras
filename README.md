@@ -1,6 +1,8 @@
 # GAN-Keras
 Generative Adversarial Network Implementations in Keras
 
+![](GAN-Fashion-mnist-keras.gif)
+
 gan.ipynb - GAN implementation using Keras for mnist and fashion-mnist dataset.
 
 cgan.ipynb - Conditional GAN implementation using Keras for mnist/Fashion mnist dataset.
