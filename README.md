@@ -13,3 +13,6 @@ acgan.ipynb - Auxiliary Classifier keras implementation for mnist dataset.
 
 ![](acgan-mnist-keras.gif)
 
+dcgan.ipynb - Auxiliary Classifier keras implementation for faces dataset.
+
+![](dcgan-faces-optimized.gif)
